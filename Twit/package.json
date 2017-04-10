@@ -1,0 +1,24 @@
+{
+  "name": "twit",
+  "version": "1.0.0",
+  "description": "twit",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashu20/fraunhofer.git"
+  },
+  "keywords": [
+    "twitter",
+    "client"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashu20/fraunhofer/issues"
+  },
+  "homepage": "https://github.com/prashu20/fraunhofer#readme"
+}
