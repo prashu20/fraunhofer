@@ -4,8 +4,8 @@ var config=require('./config');
 console.log(config);
 var T = new Twit(config);
 var params={
-   q: 'Germany',
-   count: 2
+  q: 'Germany',
+  count: 2
 };
 
 T.get('search/tweets',params,gotdata);
