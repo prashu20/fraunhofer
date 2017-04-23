@@ -1,3 +1,0 @@
-If you get an "undefined" error for the config values from the application properties on Windows 7, change the line endings of the application.properties file to CRLF (Windows) from LF (Linux).
-
-Windows 10 should be able to use both.
